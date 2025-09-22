@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\Manipulator\\",
+  "WorkspaceRootPath": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Documents\\GitHub\\Manipulator\\Manipulator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{88A2D90E-26E8-4FF2-975A-F0FBAC8EAF7A}|Manipulator\\Manipulator.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\source\\repos\\manipulator\\manipulator\\formmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{88A2D90E-26E8-4FF2-975A-F0FBAC8EAF7A}|Manipulator\\Manipulator.csproj|c:\\users\\\u043D\u0430\u0441\u0442\u044F\\documents\\github\\manipulator\\manipulator\\manipulator\\formmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88A2D90E-26E8-4FF2-975A-F0FBAC8EAF7A}|Manipulator\\Manipulator.csproj|solutionrelative:manipulator\\formmanipulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormManipulator.cs",
-              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\Manipulator\\Manipulator\\FormManipulator.cs",
+              "DocumentMoniker": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Documents\\GitHub\\Manipulator\\Manipulator\\Manipulator\\FormManipulator.cs",
               "RelativeDocumentMoniker": "Manipulator\\FormManipulator.cs",
-              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\source\\repos\\Manipulator\\Manipulator\\FormManipulator.cs",
+              "ToolTip": "C:\\Users\\\u041D\u0430\u0441\u0442\u044F\\Documents\\GitHub\\Manipulator\\Manipulator\\Manipulator\\FormManipulator.cs",
               "RelativeToolTip": "Manipulator\\FormManipulator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALsAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-19T10:21:09.812Z",
               "EditorCaption": ""

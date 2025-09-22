@@ -25,9 +25,21 @@ namespace Manipulator
         public FormManipulator()
         {
             InitializeComponent();
+            SetDoubleBuffered(MainContainer.Panel2);
+
             InitializePanel();
             scrollBar = new ScrollBar();
             InitializeFigure();
+        }
+        public static void SetDoubleBuffered(Control control)
+        {
+            if (SystemInformation.TerminalServerSession) return;
+
+            typeof(Control).InvokeMember("DoubleBuffered",
+                System.Reflection.BindingFlags.SetProperty |
+                System.Reflection.BindingFlags.Instance |
+                System.Reflection.BindingFlags.NonPublic,
+                null, control, new object[] { true });
         }
         private void InitializePanel()
         {
